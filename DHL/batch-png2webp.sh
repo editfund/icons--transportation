@@ -1,0 +1,1 @@
+./magick mogrify -path png2webp -format webp  *.png
